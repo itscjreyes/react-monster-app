@@ -1,8 +1,8 @@
 .card-list {
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
-    flex-wrap: wrap;
-    width: 90vw;
-    margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  width: 90vw;
+  margin: auto;
 }
